@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Student CRUD test","Delete the student record and verify if the student is deleted","SUCCESS","2020-05-20T11:25:28.338+01:00","0.0","0.21"
+"Student CRUD test","This test will create a new student record","SUCCESS","2020-05-20T11:25:23.230+01:00","0.0","4.07"
+"Student CRUD test","Update the student information and verify the information","SUCCESS","2020-05-20T11:25:28.133+01:00","0.0","0.2"
+"Student CRUD test","Verify if the student was added to the list","SUCCESS","2020-05-20T11:25:27.340+01:00","0.0","0.79"
